@@ -24,6 +24,7 @@ https://github.com/Gyunnam/Gyunflix
 ### [도메인]
 
 <hr>
+https://gyunnam.github.io/Gyunflix/
 
 ### [Stack]
 
